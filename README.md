@@ -11,8 +11,4 @@ Timer Frequency: Calculate timer frequency, PWM period, and duty cycle using sys
 ADC Voltage: Convert ADC digital values to voltage using reference voltage and ADC resolution.
 
 
-//Key Features:
 
-Simple and user-friendly interface.
-Independent calculation for Timer and ADC—fill only the required fields.
-Instant results displayed within the app.
